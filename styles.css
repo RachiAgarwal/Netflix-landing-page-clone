@@ -33,7 +33,7 @@ body {
 .language__drop__down {
   background: transparent;
   border: none;
-  color: white;
+  color: #A9A9A9;
 }
 
 .language__drop__down:focus {
